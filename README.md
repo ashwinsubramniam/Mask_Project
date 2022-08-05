@@ -22,7 +22,6 @@ Coding:
 from jetcam.usb_camera import USBCamera
 from jetcam.csi_camera import CSICamera
 
-# for USB Camera (Logitech C270 webcam), uncomment the following line
 camera = USBCamera(width=224, height=224, capture_device=0) # confirm the capture_device number
 
 camera.running = True
