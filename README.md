@@ -287,7 +287,7 @@ Training data:
     Once it has finished training, it will be able to tell whether a person has their mask on or off
     
     
-Here is a video explanation: 
+Here is a video explanation: https://www.youtube.com/watch?v=Lsi3qVnUCPI&feature=youtu.be
 
 
 
