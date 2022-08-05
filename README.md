@@ -1,5 +1,8 @@
 # Mask_Project
 
+This algorithim is able to determine whether a person is wearing a mask properly or not. It uses Jupyter notebook and requires you to train your own data using pictures.
+
+
 Getting into Jupyter Notebook:
 
    Connect nano to computer with the facecam connected
@@ -283,6 +286,9 @@ Training data:
     Set the epoch number to 10 so you can train the data properly.
     Click train.
     Once it has finished training, it will be able to tell whether a person has their mask on or off
+    
+    
+Here is a video explanation: 
 
 
 
